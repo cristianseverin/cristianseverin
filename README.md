@@ -13,7 +13,7 @@ My journey in management information systems has led me to develop a passion for
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Generating Telemitry and Detection | <a href="https://google.com">Detection Lab</a>|
+| Generating Telemetry and Detection | <a href="https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab/tree/main">Generating Telemetry and Detection Lab</a>|
 | Microsoft Sentinel - Creating Honeypot | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
@@ -45,5 +45,5 @@ My journey in management information systems has led me to develop a passion for
 
 
 ## Projects
-- Generating Telemetry & Detection Lab
+- <a href="https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab/tree/main">Generating Telemetry and Detection Lab</a>
 - Creating Honeypot and Visualizing Attack Map
