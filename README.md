@@ -45,5 +45,5 @@ My journey in management information systems has led me to develop a passion for
 
 
 ## Projects
-- Generating Telemitry & Detection Lab
+- Generating Telemetry & Detection Lab
 - Creating Honeypot and Visualizing Attack Map
