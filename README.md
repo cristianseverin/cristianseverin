@@ -18,6 +18,7 @@ My journey in management information systems has led me to develop a passion for
 | Python | <a href="https://google.com">To be added...</a>|
 | Visual Basic | <a href="https://google.com">To be added...</a>|
 | Software Development Life Cycle (SDLC) | <a href="https://google.com">To be added...</a>|
+| Information Systems Practicum | <a href="https://carpetbroscleaning.com">To be added...</a>|
 | Database Management | <a href="https://google.com">To be added...</a>|
 
 
