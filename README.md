@@ -21,6 +21,8 @@ My journey in management information systems has led me to develop a passion for
 | Information Systems Practicum | <a href="https://carpetbroscleaning.in">Website Project</a>|
 | Database Management | <a href="https://google.com">To be added...</a>|
 
+[System Recommendation Group 7 MIS 160.pdf](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf)
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
