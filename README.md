@@ -17,7 +17,7 @@ My journey in management information systems has led me to develop a passion for
 | Microsoft Sentinel - Creating Honeypot | <a href="https://google.com">To be added...</a>|
 | Python | <a href="https://google.com">To be added...</a>|
 | Visual Basic | <a href="https://google.com">To be added...</a>|
-| Software Development Life Cycle (SDLC) | <a href="https://google.com">To be added...</a>|
+| Software Development Life Cycle (SDLC) | [System Recommendation Group 7 MIS 160.pdf](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf)|
 | Information Systems Practicum | <a href="https://carpetbroscleaning.in">Website Project</a>|
 | Database Management | <a href="https://google.com">To be added...</a>|
 
