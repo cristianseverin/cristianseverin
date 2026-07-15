@@ -42,6 +42,12 @@ My journey in management information systems has led me to develop a passion for
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Ticketing
+<div>
+   <img src="https://img.shields.io/badge/-Ivanti-5B2EFF?&style=for-the-badge&logo=Ivanti&logoColor=white" />
+   <img src="https://img.shields.io/badge/-ServiceNow-81B441?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+<div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
