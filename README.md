@@ -24,7 +24,6 @@ My journey in management information systems has led me to develop a passion for
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
