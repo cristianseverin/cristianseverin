@@ -33,7 +33,7 @@ My journey in management information systems has led me to develop a passion for
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex%20XDR-F04E23?&style=for-the-badge" />
 </div>
 
 ### SIEM
