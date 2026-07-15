@@ -16,7 +16,7 @@ My journey in management information systems has led me to develop a passion for
 | Generating Telemetry and Detection | <a href="https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab/tree/main">Generating Telemetry and Detection Lab</a>|
 | Microsoft Sentinel - Creating Honeypot | <a href="https://google.com">To be added...</a>|
 | Python | <a href="https://github.com/cristianseverin/Python-Projects">Python Projects</a>|
-| Visual Basic | <a href="https://google.com">To be added...</a>|
+| Visual Basic | <a href="https://github.com/cristianseverin/Visual-Basic-Projects">Visual Basic Projects</a>|
 | Software Development Life Cycle (SDLC) | [System Recommendation Group 7 MIS 160.pdf](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf)|
 | Information Systems Practicum | <a href="https://carpetbroscleaning.in">Website Project</a>|
 | Database Management | [Database Management Project MIS 150 .pdf](https://github.com/user-attachments/files/30028141/Database.Management.Project.MIS.150.pdf)|
