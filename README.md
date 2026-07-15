@@ -55,4 +55,9 @@ My journey in management information systems has led me to develop a passion for
 
 ## Projects
 - <a href="https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab/tree/main">Generating Telemetry and Detection Lab</a>
-- Creating Honeypot and Visualizing Attack Map
+- <a href="https://github.com/cristianseverin/Python-Projects">Python Projects</a>
+- <a href="https://github.com/cristianseverin/Visual-Basic-Projects">Visual Basic Projects</a>
+- [System Recommendation Group 7 MIS 160.pdf](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf)
+- <a href="https://carpetbroscleaning.in">Website Project</a>
+- [Database Management Project MIS 150 .pdf](https://github.com/user-attachments/files/30028141/Database.Management.Project.MIS.150.pdf)
+- <a href="https://github.com/cristianseverin/GIS-Projects">GIS Projects</a>
