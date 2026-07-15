@@ -52,6 +52,11 @@ My journey in management information systems has led me to develop a passion for
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
+## Transcripts
+<div>
+<a href="https://github.com/user-attachments/files/30068180/Unofficial.Sac.State.Transcript.Graduated.1.pdf">Sacrmento State University</a>
+ 
+<a href="https://github.com/user-attachments/files/30068182/ARC.Unofficial.Transcript.1.pdf">American River College</a>
 
 ## Projects
 - <a href="https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab/tree/main">Generating Telemetry and Detection Lab</a>
