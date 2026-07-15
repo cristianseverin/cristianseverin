@@ -20,7 +20,7 @@ My journey in management information systems has led me to develop a passion for
 | Software Development Life Cycle (SDLC) | [System Recommendation Group 7 MIS 160.pdf](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf)|
 | Information Systems Practicum | <a href="https://carpetbroscleaning.in">Website Project</a>|
 | Database Management | [Database Management Project MIS 150 .pdf](https://github.com/user-attachments/files/30028141/Database.Management.Project.MIS.150.pdf)|
-| Geographic Information Systems | <a href="https://google.com">To be added...</a>|
+| Geographic Information Systems | <a href="https://github.com/cristianseverin/GIS-Projects">GIS Projects</a>|
 
 
 ## Tools
