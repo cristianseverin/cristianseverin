@@ -11,9 +11,9 @@ My journey in Management Information Systems has led me to develop a passion for
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Live Breach and Incident Response | [Cyber Defense Final Report.pdf](https://github.com/user-attachments/files/32987548/Cyber.Defense.Final.Report.pdf) |
 | Generating Telemetry and Detection | <a href="https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab/tree/main">Generating Telemetry and Detection Lab</a>|
 | Threat Hunting in Microsoft Defender | [Module 1 __ Core Investigation Skills.pdf](https://github.com/user-attachments/files/32676302/Module.1.__.Core.Investigation.Skills.pdf)|
-| Live Breach and Incident Response | [Cyber Defense Final — Advanced Honey Pot w_Live Breach.pdf](https://github.com/user-attachments/files/32676346/Cyber.Defense.Final.Advanced.Honey.Pot.w_Live.Breach.pdf) |
 | Python | <a href="https://github.com/cristianseverin/Python-Projects">Python Projects</a>|
 | Visual Basic | <a href="https://github.com/cristianseverin/Visual-Basic-Projects">Visual Basic Projects</a>|
 | Software Development Life Cycle (SDLC) | [System Recommendation Group 7 MIS 160.pdf](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf)|
