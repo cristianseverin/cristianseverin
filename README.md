@@ -11,6 +11,7 @@ My journey in Management Information Systems has led me to develop a passion for
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Vulnerability Management |  |
 | Live Breach and Incident Response | [Cyber Defense Final Report.pdf](https://github.com/user-attachments/files/32987548/Cyber.Defense.Final.Report.pdf) |
 | Generating Telemetry and Detection | <a href="https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab/tree/main">Generating Telemetry and Detection Lab</a>|
 | Threat Hunting in Microsoft Defender | [Module 1 __ Core Investigation Skills.pdf](https://github.com/user-attachments/files/32676302/Module.1.__.Core.Investigation.Skills.pdf)|
