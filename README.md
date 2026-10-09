@@ -36,6 +36,11 @@ Hands-on scanning and configuration assessment using Tenable/Nessus in Azure lab
 - Reviewed Windows 11 STIG compliance findings.
 - Practiced remediation by enabling UAC Admin Approval Mode for the built-in Administrator account.
 
+### [Windows Agent_Assessment_Lab](https://github.com/user-attachments/files/33235846/Cristian_Severin_Windows_Agent_Assessment_Lab.docx)
+
+- Configured an agent group and a Basic Agent Scan for that group.
+- Ran the platform-generated installation command in administrator PowerShell and checked the linking output.
+- Followed the lab's trigger-file workflow using start.txt, then reviewed the findings returned to the Tenable portal.
 
 ## Incident Response
 
