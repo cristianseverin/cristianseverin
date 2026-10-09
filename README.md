@@ -1,72 +1,132 @@
-# Hello, I'm Cristian Severin
-<a href="www.linkedin.com/in/cristian-severin-b7520a309"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Cristian Severin
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
- 
-## Objective
+**IT Operations | Cybersecurity | Vulnerability Management**
 
-My journey in Management Information Systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm a Sacramento State Business MIS graduate and CompTIA Security+ certified IT professional working in the California Department of Justice's Computer Operations Unit.
 
-## Skills
+My experience includes monitoring mission-critical systems, troubleshooting network and account-access issues, documenting incidents, and supporting users. Through The Cyber Range, I am building practical skills in security investigation, incident response, and vulnerability management.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Vulnerability Management |  |
-| Live Breach and Incident Response | [Cyber Defense Final Report.pdf](https://github.com/user-attachments/files/32987548/Cyber.Defense.Final.Report.pdf) |
-| Generating Telemetry and Detection | <a href="https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab/tree/main">Generating Telemetry and Detection Lab</a>|
-| Threat Hunting in Microsoft Defender | [Module 1 __ Core Investigation Skills.pdf](https://github.com/user-attachments/files/32676302/Module.1.__.Core.Investigation.Skills.pdf)|
-| Python | <a href="https://github.com/cristianseverin/Python-Projects">Python Projects</a>|
-| Visual Basic | <a href="https://github.com/cristianseverin/Visual-Basic-Projects">Visual Basic Projects</a>|
-| Software Development Life Cycle (SDLC) | [System Recommendation Group 7 MIS 160.pdf](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf)|
-| Information Systems Practicum | <a href="https://carpetbroscleaning.in">Website Project</a>|
-| Database Management | [Database Management Project MIS 150 .pdf](https://github.com/user-attachments/files/30028141/Database.Management.Project.MIS.150.pdf)|
-| Geographic Information Systems | <a href="https://github.com/cristianseverin/GIS-Projects">GIS Projects</a>|
+I'm seeking a full-time IT or cybersecurity role where I can support reliable systems, help users, and continue developing my technical skills.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072B1?style=flat-square)](https://www.linkedin.com/in/cristian-severin-b7520a309)
 
-## Tools
+## Explore My Projects
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-00599C?&style=for-the-badge" />
-</div>
+[Vulnerability Management](#vulnerability-management) |
+[Incident Response](#incident-response) |
+[Threat Hunting & Detection](#threat-hunting--detection) |
+[Python](#python) |
+[Visual Basic](#visual-basic)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cortex%20XDR-F04E23?&style=for-the-badge" />
-</div>
+## Vulnerability Management
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+Hands-on scanning and configuration assessment using Tenable/Nessus in Azure lab environments.
 
-### Ticketing
-<div>
-   <img src="https://img.shields.io/badge/-Ivanti-5B2EFF?&style=for-the-badge&logo=Ivanti&logoColor=white" />
-   <img src="https://img.shields.io/badge/-ServiceNow-81B441?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
-<div>
+### Authenticated vs. Unauthenticated Scanning
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+- Scanned Windows 11 and Ubuntu VMs with and without credentials.
+- Compared findings and scan duration to understand how authenticated access improves visibility.
+- Reviewed vulnerability findings and remediation guidance.
 
-## Transcripts
-<div>
-<a href="https://github.com/user-attachments/files/30068180/Unofficial.Sac.State.Transcript.Graduated.1.pdf">Sacrmento State University</a>
- 
-<a href="https://github.com/user-attachments/files/30068182/ARC.Unofficial.Transcript.1.pdf">American River College</a>
+### Reusable Scan Templates and Windows STIG Audits
 
-## Projects
-- <a href="https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab/tree/main">Generating Telemetry and Detection Lab</a>
-- [Module 1 __ Core Investigation Skills.pdf](https://github.com/user-attachments/files/32676302/Module.1.__.Core.Investigation.Skills.pdf)
-- [Cyber Defense Final — Advanced Honey Pot w_Live Breach.pdf](https://github.com/user-attachments/files/32676346/Cyber.Defense.Final.Advanced.Honey.Pot.w_Live.Breach.pdf)
-- <a href="https://github.com/cristianseverin/Python-Projects">Python Projects</a>
-- <a href="https://github.com/cristianseverin/Visual-Basic-Projects">Visual Basic Projects</a>
-- [System Recommendation Group 7 MIS 160.pdf](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf)
-- <a href="https://carpetbroscleaning.in">Website Project</a>
-- [Database Management Project MIS 150 .pdf](https://github.com/user-attachments/files/30028141/Database.Management.Project.MIS.150.pdf)
-- <a href="https://github.com/cristianseverin/GIS-Projects">GIS Projects</a>
+- Created and reused a scan template for consistent Windows assessments.
+- Reviewed Windows 11 STIG compliance findings.
+- Practiced remediation by enabling UAC Admin Approval Mode for the built-in Administrator account.
+
+<!-- Add links to these lab write-ups after publishing them. -->
+
+## Incident Response
+
+### [Cyber Defense Capstone: MySQL Honeypot Investigation](https://github.com/user-attachments/files/32987548/Cyber.Defense.Final.Report.pdf)
+
+Investigated activity against an Azure Windows honeypot with MySQL using Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, and network flow logs.
+
+- Correlated database authentication, SQL queries, Windows logons, and network activity.
+- Traced remote root access, bulk-read requests, ransom-message writes, and destructive SQL.
+- Performed device isolation, network and account hardening, malware scanning, and recovery troubleshooting.
+- Produced an incident report with an MDE investigation package comparison.
+- Distinguished confirmed observations from outcomes that required further validation.
+
+**Tools:** Azure, Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, MySQL, Log Analytics
+
+## Threat Hunting & Detection
+
+### [Generating Telemetry and Detection Lab](https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab)
+
+Generated and investigated endpoint telemetry across Defender tables covering authentication, processes, network connections, files, registry changes, and device events.
+
+**Focus:** KQL queries, parent-child process context, and identifying activity across multiple telemetry sources.
+
+### [Core Investigation Skills](https://github.com/user-attachments/files/32676302/Module.1.__.Core.Investigation.Skills.pdf)
+
+Documented hands-on investigation practice using Microsoft Defender and KQL.
+
+### Additional Security Labs
+
+- Completed a threat-hunt lab involving WMI remote execution, command-and-control activity, persistence, and lateral movement.
+- Built Microsoft Sentinel workbooks for visualizing authentication and network activity.
+- Created threat intelligence indicators, matched them against telemetry, and built an analytics rule.
+
+<!-- Add direct repository links as these write-ups are published. -->
+
+## Python
+
+### [Python Projects](https://github.com/cristianseverin/Python-Projects)
+
+A collection of my Python projects and programming practice.
+
+## Visual Basic
+
+### [Visual Basic Projects](https://github.com/cristianseverin/Visual-Basic-Projects)
+
+A collection of my Visual Basic projects and programming practice.
+
+## Tools and Technologies
+
+These tools reflect a combination of professional support experience, coursework, and hands-on lab practice.
+
+| Area | Tools and Technologies |
+|---|---|
+| Cloud and infrastructure | Azure VMs, Network Security Groups, Azure Bastion |
+| Security monitoring | Microsoft Defender for Endpoint, Microsoft Sentinel, KQL |
+| Vulnerability assessment | Tenable/Nessus, Windows STIG audits |
+| Network analysis | Wireshark, tcpdump |
+| IT operations and support | ServiceNow, Active Directory, GlobalProtect, Duo |
+| Programming and data | Python, Visual Basic, MySQL |
+| Operating systems | Windows, Ubuntu, Kali Linux |
+
+## Certifications and Education
+
+- **CompTIA Security+**, June 2026
+- **Google Cybersecurity Certificate**, December 2025
+- **B.S., Business Management Information Systems**, California State University, Sacramento, May 2026
+- **A.S.**, American River College, December 2023
+
+<details>
+<summary><strong>Additional Academic and Systems Projects</strong></summary>
+
+### Systems Analysis and Website Development
+
+[Systems Recommendation Report](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf) |
+[Delivered Website](https://carpetbroscleaning.in)
+
+Served as project manager for a two-semester MIS practicum involving stakeholder requirements, systems analysis, platform evaluation, and delivery of a WordPress website for a real business.
+
+### Database Management
+
+[Database Management Project](https://github.com/user-attachments/files/30028141/Database.Management.Project.MIS.150.pdf)
+
+Academic project documenting database-management coursework.
+
+### Geographic Information Systems
+
+[GIS Projects](https://github.com/cristianseverin/GIS-Projects)
+
+A collection of geographic information systems projects.
+
+</details>
+
+---
+
+Security projects shown here were completed in authorized training environments. They demonstrate hands-on practice and are separate from my professional IT operations responsibilities.
