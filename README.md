@@ -22,7 +22,7 @@ I'm seeking a full-time IT or cybersecurity role where I can support reliable sy
 
 Hands-on scanning and configuration assessment using Tenable/Nessus in Azure lab environments.
 
-### [Vulnerability_Scanning_Labs](https://github.com/user-attachments/files/33234571/Vulnerability_Scanning_Labs.docx)
+### [Vulnerability Scanning Labs](https://github.com/user-attachments/files/33234571/Vulnerability_Scanning_Labs.docx)
 
 #### Authenticated vs. Unauthenticated Scanning
 
