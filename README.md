@@ -22,19 +22,20 @@ I'm seeking a full-time IT or cybersecurity role where I can support reliable sy
 
 Hands-on scanning and configuration assessment using Tenable/Nessus in Azure lab environments.
 
-### Authenticated vs. Unauthenticated Scanning
+### [Vulnerability_Scanning_Labs](https://github.com/user-attachments/files/33234571/Vulnerability_Scanning_Labs.docx)
+
+#### Authenticated vs. Unauthenticated Scanning
 
 - Scanned Windows 11 and Ubuntu VMs with and without credentials.
 - Compared findings and scan duration to understand how authenticated access improves visibility.
 - Reviewed vulnerability findings and remediation guidance.
 
-### Reusable Scan Templates and Windows STIG Audits
+#### Reusable Scan Templates and Windows STIG Audits
 
 - Created and reused a scan template for consistent Windows assessments.
 - Reviewed Windows 11 STIG compliance findings.
 - Practiced remediation by enabling UAC Admin Approval Mode for the built-in Administrator account.
 
-<!-- Add links to these lab write-ups after publishing them. -->
 
 ## Incident Response
 
