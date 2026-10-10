@@ -20,7 +20,7 @@ I'm seeking a full-time IT or cybersecurity role where I can support reliable sy
 
 ## Vulnerability Management
 
-### [Vulnerability Management Labs](https://github.com/cristianseverin/Vulnerability-Management-Labs)
+### [Vulnerability Management Labs](https://github.com/cristianseverin/Vulnerability-Management)
 
 Hands-on Tenable/Nessus assessments of Windows and Ubuntu VMs in an Azure training environment.
 
