@@ -20,27 +20,9 @@ I'm seeking a full-time IT or cybersecurity role where I can support reliable sy
 
 ## Vulnerability Management
 
-Hands-on scanning and configuration assessment using Tenable/Nessus in Azure lab environments.
+Check out my vulnerability management repository below.
 
-### [Vulnerability Scanning Labs](https://github.com/user-attachments/files/33234571/Vulnerability_Scanning_Labs.docx)
-
-#### Authenticated vs. Unauthenticated Scanning
-
-- Scanned Windows 11 and Ubuntu VMs with and without credentials.
-- Compared findings and scan duration to understand how authenticated access improves visibility.
-- Reviewed vulnerability findings and remediation guidance.
-
-#### Reusable Scan Templates and Windows STIG Audits
-
-- Created and reused a scan template for consistent Windows assessments.
-- Reviewed Windows 11 STIG compliance findings.
-- Practiced remediation by enabling UAC Admin Approval Mode for the built-in Administrator account.
-
-### [Windows Agent Assessment Lab](https://github.com/user-attachments/files/33235846/Cristian_Severin_Windows_Agent_Assessment_Lab.docx)
-
-- Configured an agent group and a Basic Agent Scan for that group.
-- Ran the platform-generated installation command in administrator PowerShell and checked the linking output.
-- Followed the lab's trigger-file workflow using start.txt, then reviewed the findings returned to the Tenable portal.
+[Vulnerability Management](https://github.com/cristianseverin/Vulnerability-Management)
 
 ## Incident Response
 
