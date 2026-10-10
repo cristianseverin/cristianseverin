@@ -20,9 +20,18 @@ I'm seeking a full-time IT or cybersecurity role where I can support reliable sy
 
 ## Vulnerability Management
 
-Check out my vulnerability management repository below.
+### [Vulnerability Management Labs](https://github.com/cristianseverin/Vulnerability-Management-Labs)
 
-[Vulnerability Management](https://github.com/cristianseverin/Vulnerability-Management)
+Hands-on Tenable/Nessus assessments of Windows and Ubuntu VMs in an Azure training environment.
+
+- Compared authenticated and unauthenticated scans.
+- Created reusable scan templates and reviewed Windows STIG compliance findings.
+- Deployed Nessus Agents on Windows and Linux.
+- Practiced subnet discovery, finding review, and UAC configuration remediation.
+- Documented workflows, results, and lessons learned with screenshots.
+
+**Tools:** Tenable Vulnerability Management, Nessus Agent, Azure, Windows, Ubuntu, PowerShell, and Linux shell.
+
 
 ## Incident Response
 
