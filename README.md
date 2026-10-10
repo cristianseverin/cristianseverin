@@ -12,7 +12,7 @@ I'm seeking a full-time IT or cybersecurity role where I can support reliable sy
 
 ## Explore My Projects
 
-[Vulnerability Management](#vulnerability-management) |
+[Vulnerability Management](https://github.com/cristianseverin/Vulnerability-Management) |
 [Incident Response](#incident-response) |
 [Threat Hunting & Detection](#threat-hunting--detection) |
 [Python](#python) |
