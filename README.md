@@ -10,6 +10,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Incident Response Lifecycle (Advanced Honeypot & Live Breach)](https://github.com/cristianseverin/Incident-Response-Report)**
+
 - **[Threat Hunting Scenario (Tor Browser Usage) - (Expected November, 2026)](https://www.linkedin.com/in/cristian-severin-b7520a309/)**
 
 <hr/>
