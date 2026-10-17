@@ -1,129 +1,32 @@
-# Hi, I'm Cristian Severin
+# <a href="https://www.linkedin.com/in/cristian-severin-b7520a309/">Cristian Severin</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-**IT Operations | Cybersecurity | Vulnerability Management**
-
-I'm a Sacramento State Business MIS graduate and CompTIA Security+ certified IT professional working in the California Department of Justice's Computer Operations Unit.
-
-My experience includes monitoring mission-critical systems, troubleshooting network and account-access issues, documenting incidents, and supporting users. Through The Cyber Range, I am building practical skills in security investigation, incident response, and vulnerability management.
-
-I'm seeking a full-time IT or cybersecurity role where I can support reliable systems, help users, and continue developing my technical skills.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072B1?style=flat-square)](https://www.linkedin.com/in/cristian-severin-b7520a309)
-
-## Explore My Projects
-
-[Vulnerability Management](https://github.com/cristianseverin/Vulnerability-Management) |
-[Incident Response](#incident-response) |
-[Threat Hunting & Detection](#threat-hunting--detection) |
-[Python](#python) |
-[Visual Basic](#visual-basic)
-
-## Vulnerability Management
-
-### [Vulnerability Management Labs](https://github.com/cristianseverin/Vulnerability-Management)
-
-Hands-on Tenable/Nessus assessments of Windows and Ubuntu VMs in an Azure training environment.
-
-- Compared authenticated and unauthenticated scans.
-- Created reusable scan templates and reviewed Windows STIG compliance findings.
-- Deployed Nessus Agents on Windows and Linux.
-- Practiced subnet discovery, finding review, and UAC configuration remediation.
-- Documented workflows, results, and lessons learned with screenshots.
-
-**Tools:** Tenable Vulnerability Management, Nessus Agent, Azure, Windows, Ubuntu, PowerShell, and Linux shell.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## Incident Response
+## ⚠️ Vulnerability Management Projects
 
-### [Cyber Defense Capstone: MySQL Honeypot Investigation](https://github.com/user-attachments/files/32987548/Cyber.Defense.Final.Report.pdf)
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-Investigated activity against an Azure Windows honeypot with MySQL using Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, and network flow logs.
+## 🚨 Threat Hunting and Security Operations
 
-- Correlated database authentication, SQL queries, Windows logons, and network activity.
-- Traced remote root access, bulk-read requests, ransom-message writes, and destructive SQL.
-- Performed device isolation, network and account hardening, malware scanning, and recovery troubleshooting.
-- Produced an incident report with an MDE investigation package comparison.
-- Distinguished confirmed observations from outcomes that required further validation.
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-**Tools:** Azure, Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, MySQL, Log Analytics
+<hr/>
 
-## Threat Hunting & Detection
+## 🤳 Connect With Me
 
-### [Generating Telemetry and Detection Lab](https://github.com/cristianseverin/Generating-Telemetry-Detection-Lab)
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Generated and investigated endpoint telemetry across Defender tables covering authentication, processes, network connections, files, registry changes, and device events.
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
+[linkedin]: https://linkedin.com/in/___________
 
-**Focus:** KQL queries, parent-child process context, and identifying activity across multiple telemetry sources.
-
-### [Core Investigation Skills](https://github.com/user-attachments/files/32676302/Module.1.__.Core.Investigation.Skills.pdf)
-
-Documented hands-on investigation practice using Microsoft Defender and KQL.
-
-### Additional Security Labs
-
-- Completed a threat-hunt lab involving WMI remote execution, command-and-control activity, persistence, and lateral movement.
-- Built Microsoft Sentinel workbooks for visualizing authentication and network activity.
-- Created threat intelligence indicators, matched them against telemetry, and built an analytics rule.
-
-<!-- Add direct repository links as these write-ups are published. -->
-
-## Python
-
-### [Python Projects](https://github.com/cristianseverin/Python-Projects)
-
-A collection of my Python projects and programming practice.
-
-## Visual Basic
-
-### [Visual Basic Projects](https://github.com/cristianseverin/Visual-Basic-Projects)
-
-A collection of my Visual Basic projects and programming practice.
-
-## Tools and Technologies
-
-These tools reflect a combination of professional support experience, coursework, and hands-on lab practice.
-
-| Area | Tools and Technologies |
-|---|---|
-| Cloud and infrastructure | Azure VMs, Network Security Groups, Azure Bastion |
-| Security monitoring | Microsoft Defender for Endpoint, Microsoft Sentinel, KQL |
-| Vulnerability assessment | Tenable/Nessus, Windows STIG audits |
-| Network analysis | Wireshark, tcpdump |
-| IT operations and support | ServiceNow, Active Directory, GlobalProtect, Duo |
-| Programming and data | Python, Visual Basic, MySQL |
-| Operating systems | Windows, Ubuntu, Kali Linux |
-
-## Certifications and Education
-
-- **CompTIA Security+**, June 2026
-- **Google Cybersecurity Certificate**, December 2025
-- **B.S., Business Management Information Systems**, California State University, Sacramento, May 2026
-- **A.S.**, American River College, December 2023
-
-<details>
-<summary><strong>Additional Academic and Systems Projects</strong></summary>
-
-### Systems Analysis and Website Development
-
-[Systems Recommendation Report](https://github.com/user-attachments/files/30028100/System.Recommendation.Group.7.MIS.160.pdf) |
-[Delivered Website](https://carpetbroscleaning.in)
-
-Served as project manager for a two-semester MIS practicum involving stakeholder requirements, systems analysis, platform evaluation, and delivery of a WordPress website for a real business.
-
-### Database Management
-
-[Database Management Project](https://github.com/user-attachments/files/30028141/Database.Management.Project.MIS.150.pdf)
-
-Academic project documenting database-management coursework.
-
-### Geographic Information Systems
-
-[GIS Projects](https://github.com/cristianseverin/GIS-Projects)
-
-A collection of geographic information systems projects.
-
-</details>
-
----
-
-Security projects shown here were completed in authorized training environments. They demonstrate hands-on practice and are separate from my professional IT operations responsibilities.
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
