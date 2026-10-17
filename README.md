@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cristianseverin/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage) - (Expected November, 2026)](https://www.linkedin.com/in/cristian-severin-b7520a309/)**
 
 <hr/>
 
