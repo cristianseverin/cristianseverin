@@ -14,7 +14,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage) - (Expected November, 2026)](https://github.com/cristianseverin/threat-hunting-scenario-tor)**
 
-- **[Threat Hunt Operation ECHOLEAK]((https://github.com/cristianseverin/Threat-Hunt-Operation-ECHOLEAK))**
+- **[Threat Hunt Operation ECHOLEAK](https://github.com/cristianseverin/Threat-Hunt-Operation-ECHOLEAK)**
+
 <hr/>
 
 ## 🤳 Connect With Me
