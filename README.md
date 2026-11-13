@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/cristianseverin/Vulnerability-Management)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[DISA STIG PowerShell Remediations)](https://github.com/cristianseverin/Vulnerability-Management/blob/main/DISA-STIG-Remediations/WN11-AU-000505)**
 
 ## 🚨 Threat Hunting and Security Operations
 
